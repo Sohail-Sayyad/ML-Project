@@ -12,4 +12,4 @@ The dataset contains sample data in CSV format with features and target variable
 - Scikit-learn 
 
 ## Updated Project 
-- Added a new file and a dataset
+- Added a new file and a dataset and updated MLOPS practical
